@@ -7,7 +7,6 @@ Engineer | Student | Building real-world AI & Web apps
 
 ## My Projects 
 
-# 🌊 AI-Driven Urban Flood Prediction & Response System
 
 AI-based system for real-time flood prediction and smart response planning in urban areas.
 
@@ -43,6 +42,6 @@ AI-based system for real-time flood prediction and smart response planning in ur
 
 ---
 
-## 📫 Contact Me
+## Contact Me
 - LinkedIn: [https://www.linkedin.com/in/satwikgvaidya/](#)
 - Email: satwik.techi@gmail.com
