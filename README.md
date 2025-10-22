@@ -30,7 +30,7 @@ AI-based system for real-time flood prediction and smart response planning in ur
 ### 2. AppX – Samyog Platform
 - Founded & led a 12-member team to connect students to clubs.
 - Tech Stack: React, Node.js, Firebase
-- Demo: [Live App](https://samyogappx.netlify.app/team)
+- Demo: [Live App] Navigate Around (https://samyogappx.netlify.app)
 
 ### 3. CrowToGrow – Interactive Frontend
 - Built marketing websites using React + 3JS for interactive UI.
